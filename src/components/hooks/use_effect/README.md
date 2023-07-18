@@ -20,8 +20,8 @@ See `use_effect/hints.md` if you get stuck!
 
 Use the React documentation to help you: https://react.dev/reference/react/useEffect
 
--   What does useEffect do?
+- What does useEffect do?
 
--   What is useEffect used for?
+- What is useEffect used for?
 
--   What does the dependency array do?
+- What does the dependency array do?
